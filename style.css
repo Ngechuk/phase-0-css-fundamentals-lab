@@ -14,3 +14,8 @@ nav{
   position: relative;
   background-color: palevioletred;
 }
+feartured property> p{
+  width: 800px;
+  text-align: center;
+  vertical-align: auto;
+}
